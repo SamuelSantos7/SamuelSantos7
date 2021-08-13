@@ -4,6 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/eduardo-carlos-95a5121ba/)](https://www.linkedin.com/in/samuelsantos7/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964048325&text=Olá!)](https://api.whatsapp.com/send?phone=5512991088535&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardoclacalle@gmail.com)](mailto:samuel.rocha0706@gmail.com)
+</br><a href="https://www.instagram.com/santos_samu07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 #### Conhecimento nas linguagens:
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
