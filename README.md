@@ -23,3 +23,5 @@
 
 <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSantos7&layout=compact&theme=vision-friendly-dark" />
 <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=SamuelSantos7&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+
+ ![Snake animation](https://github.com/SamuelSantos7/SamuelSantos7/blob/output/github-contribution-grid-snake.svg) 
